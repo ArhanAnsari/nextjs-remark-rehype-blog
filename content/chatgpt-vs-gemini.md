@@ -2,7 +2,7 @@
 title: ChatGPT vs. Gemini
 description: This is JavaScript tutorial and this is for learning JavaScript
 slug: chatgpt-vs-gemini
-date: 02/09/2024
+date: 09/02/2024
 author: Arhan
 image: https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 ---
