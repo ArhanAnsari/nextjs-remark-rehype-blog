@@ -2,7 +2,7 @@
 title: C Programming Tutorial
 description: This is JavaScript tutorial and this is for learning JavaScript
 slug: c-programming-tutorial
-date: 02/03/2025
+date: 01/09/2024
 author: Arhan
 image: /typescript.webp
 ---
